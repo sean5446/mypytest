@@ -1,4 +1,4 @@
 # mypytest
 Simple Python Test
 
-![Python application](https://github.com/smaguire-noumena/mypytest/workflows/Python%20application/badge.svg?branch=main)
+![Python application](https://github.com/sean5446/mypytest/workflows/Python%20application/badge.svg?branch=main)
