@@ -11,3 +11,7 @@ class TestApp(unittest.TestCase):
 
   def test_do_minus(self):
     self.assertEqual(MyApp.do_minus(1, 1), 0)
+
+  def test_fail(self):
+    self.assertEqual(1, 2)
+
